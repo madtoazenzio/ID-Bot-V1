@@ -37,13 +37,13 @@ class Translation(object):
 
 <u>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</u> : <a href='t.me/{}'>@𝐏𝐑0𝐅𝐄𝐒𝐒0𝐑_99</a>
 
-<u>👨‍💻 𝐂𝐨 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</u> : <a href='https://t.me/{}' >@𝐌𝐑_𝐉𝐈𝐍𝐍_𝐎𝐅_𝐓𝐆</a>
+<u>👨‍💻 𝐄𝐝𝐢𝐭𝐨𝐫</u> : <a href='https://t.me/{}' >@Z_Bots</a>
 
-<u>👥 𝐆𝐫𝐨𝐮𝐩</u> :   <a href='t.me/{}'>𝐌𝐓 𝐂𝐡𝐚𝐭𝐬</a>
+<u>👥 𝐆𝐫𝐨𝐮𝐩</u> :   <a href='t.me/{}'>𝐙 𝐁𝐨𝐭𝐬 𝐒𝐔𝐏𝐏𝐎𝐑𝐓</a>
  
-<u>📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥</u> : <a href='t.me/{}'>𝐌𝐓 𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a>
+<u>📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥</u> : <a href='t.me/{}'>𝐙 𝐁𝐨𝐭𝐬</a>
 
-<u>❣️ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞</u> : <a href='https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ'>𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐍𝐨𝐰</a>
+<u>❣️ </u> : <a href='https://t.me/Z_Bots'>𝐉𝐨𝐢𝐧 𝐍𝐨𝐰</a>
 
 <u>🔘 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞</u> : <a href='{}'>𝐏𝐫𝐞𝐬𝐬 𝐌𝐞🙃</a>
 """
