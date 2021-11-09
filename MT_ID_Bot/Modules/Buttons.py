@@ -1,11 +1,11 @@
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 
 ID_BUTTON = InlineKeyboardMarkup( [[
-       InlineKeyboardButton("📢 𝐉𝐎𝐈𝐍 𝐌𝐘 𝐔𝐏𝐃𝐀𝐓𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 📢", url="t.me/Mo_Tech_YT")
+       InlineKeyboardButton("📢 𝐉𝐎𝐈𝐍 𝐌𝐘 𝐔𝐏𝐃𝐀𝐓𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 📢", url="t.me/Z_Bots")
        ]]
        )
 INFO_BUTTON = InlineKeyboardMarkup( [[
-       InlineKeyboardButton("📢 𝐉𝐎𝐈𝐍 𝐌𝐘 𝐔𝐏𝐃𝐀𝐓𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 📢", url="t.me/Mo_Tech_YT")
+       InlineKeyboardButton("📢 𝐉𝐎𝐈𝐍 𝐌𝐘 𝐔𝐏𝐃𝐀𝐓𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 📢", url="t.me/Z_Bots")
        ]]
        )
 ID_BUTTONS = InlineKeyboardMarkup( [[
@@ -21,6 +21,6 @@ INFO_BUTTONS = InlineKeyboardMarkup( [[
        ]]
        )
 JSON_BUTTON = InlineKeyboardMarkup( [[
-       InlineKeyboardButton("📢 𝐉𝐎𝐈𝐍 𝐌𝐘 𝐔𝐏𝐃𝐀𝐓𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 📢", url="t.me/Mo_Tech_YT")
+       InlineKeyboardButton("📢 𝐉𝐎𝐈𝐍 𝐌𝐘 𝐔𝐏𝐃𝐀𝐓𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 📢", url="t.me/Z_Bots")
        ]]
        )
